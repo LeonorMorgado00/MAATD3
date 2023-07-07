@@ -1823,11 +1823,11 @@ var caminho2 = "M122.405937,242.241241 "
                                         if(countsFuture[1]['id'] == 'p') corFutureProject = "#E2CC96FF"
 
 
-                                        if(countsFuture[2]['id'] == 'e') corFutureExterior = "#669BE2FF"
-                                        if(countsFuture[2]['id'] == 'o') corFutureOval = "#669BE2FF"
-                                        if(countsFuture[2]['id'] == 'v') corFutureVideo = "#669BE2FF"
-                                        if(countsFuture[2]['id'] == 'g') corFutureGaleria = "#669BE2FF"
-                                        if(countsFuture[2]['id'] == 'p') corFutureProject = "#669BE2FF"
+                                        if(countsFuture[2]['id'] == 'e') corFutureExterior = "#E2B266FF"
+                                        if(countsFuture[2]['id'] == 'o') corFutureOval = "#E2B266FF"
+                                        if(countsFuture[2]['id'] == 'v') corFutureVideo = "#E2B266FF"
+                                        if(countsFuture[2]['id'] == 'g') corFutureGaleria = "#E2B266FF"
+                                        if(countsFuture[2]['id'] == 'p') corFutureProject = "#E2B266FF"
 
                                         if(countsFuture[3]['id'] == 'e') corFutureExterior = "#E2763DFF"
                                         if(countsFuture[3]['id'] == 'o') corFutureOval = "#E2763DFF"
